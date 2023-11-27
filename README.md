@@ -36,3 +36,9 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+They didn't want help and you call them ungrateful after witnessing help forced upon them? Meaning you care more about those feelings you had while witnessing an act of charity than you care about the one receiving said charity. The charity given to them is not a charity, it is a hire. You've hired them as an actor in a play that they didn't agree to be in.
+
+Baltimore Emerging Leaders Conference
+9am-5pm; breakfast served
+this saturday
