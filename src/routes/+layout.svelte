@@ -4,7 +4,7 @@
 	import 'open-props/buttons';
 	import Header from './header.svelte';
 	import Footer from './footer.svelte';
-    import '../app.css'
+    import '../app.css';
 </script>
 
 <div class="layout">
