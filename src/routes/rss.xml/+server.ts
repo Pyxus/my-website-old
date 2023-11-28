@@ -1,6 +1,8 @@
 import * as config from '$lib/config'
 import type { Post } from '$lib/types'
 
+export const prerender = true
+
 //TODO: Feed Validation Service after Deployment
 export async function GET({ fetch }) {
 	const response = await fetch('api/posts')
